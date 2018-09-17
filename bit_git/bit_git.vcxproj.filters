@@ -24,6 +24,9 @@
     <ClCompile Include="..\..\..\..\GitHub\MatrixClient\MatrixLib\Stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MatrixMultiplication.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\GitHub\MatrixClient\MatrixLib\MatrixLib.h">
